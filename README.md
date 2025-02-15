@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/OliynykLab/XRD-Matcher/blob/main/LICENSE)
 ![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)
 
-This is interactive software is done in jupyter notebook for user-ease. It will plot a single chosen experimental x-ray diffraction (.xy) file and allow you to compare it against proposed structures (.cif - can be acquired from PCD or any other crystal structure database). 
+This is an interactive software done in jupyter notebook for user-ease. It will plot a single chosen experimental x-ray diffraction (.xy) file and allow you to compare it against proposed structures (.cif - can be acquired from PCD or any other crystal structure database). 
 
 > The current README.md serves as a tutorial and documentation - last update February 15, 2025
 

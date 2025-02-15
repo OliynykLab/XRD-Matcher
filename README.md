@@ -1,6 +1,6 @@
 # High-throughput LMTO
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/oliynyk-lab/XRD-Matcher/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/OliynykLab/XRD-Matcher/blob/main/LICENSE)
 ![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)
 
 This is interactive software is done in jupyter notebook for user-ease. It will plot a single chosen experimental x-ray diffraction (.xy) file and allow you to compare it against proposed structures (.cif - can be acquired from PCD or any other crystal structure database). 
@@ -27,7 +27,7 @@ The steps to visualize your data are as follows:
 ## Installation
 
 ```bash
-$ git clone https://github.com/Oliynyk-Lab/XRD-Matcher
+$ git clone https://github.com/OliynykLab/XRD-Matcher
 $ pip install -r requirements.txt
 ```
 
@@ -40,4 +40,4 @@ $ pip install -r requirements.txt
 ## How to ask for help
 
 - If you have any issues or questions, please feel free to reach out or
-  [leave an issue](https://github.com/Oliynyk-Lab/XRD-Matcher).
+  [leave an issue](https://github.com/OliynykLab/XRD-Matcher).

@@ -1,4 +1,4 @@
-# High-throughput LMTO
+# XRD Matcher
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/OliynykLab/XRD-Matcher/blob/main/LICENSE)
 ![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)

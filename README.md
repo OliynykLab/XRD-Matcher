@@ -34,6 +34,7 @@ $ pip install -r requirements.txt
 ## Contributors
 
 - [Emil Jaffal](https://github.com/EmilJaffal)
+- Riya Upadhyay
 - [Alex Vtorov](https://github.com/AlexV-ops)
 - Anton Oliynyk
 
